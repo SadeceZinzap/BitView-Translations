@@ -38,3 +38,4 @@ If the language system does not consider some aspects of your language, please [
 | Català / Catalan | 10% | Herotrap
 | Galego | 20% | dswitchfofo
 | Esperanto | 5% | xzjul
+| Filipino | 100% | Danbytronic
